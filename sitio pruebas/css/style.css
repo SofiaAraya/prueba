@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;1,300;1,700&display=swap');
+
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1607457561901-e6ec3a6d16cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80);
+font-family: 'Comic Neue', cursive;}
+h1{text-align: center;
+	color: hotpink;
+font-size: 40px;}
+h2{font-size: 30px;
+color: hotpink;}
+p{font-size: 20px;}
+ul li{font-size: 20px;}
+img{width: 500px;
+height: 500px;}
+#nombre{text-decoration: none;
+list-style: none;
+color: hotpink;
+font-weight: 500;}
+div{margin-left: 100px;
+margin-right: 100px;}
